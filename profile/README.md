@@ -31,7 +31,7 @@ Client projects are delivered in isolated `client-*` repos - consuming capabilit
 ---
 
 ## 🧠 Our Philosophy
-One improvement to `pw-ai-capabilities` benefits every app and every client simultaneously.
+One improvement to `pw-ai-capabilities` benefits every app and every client/agency simultaneously.
 
 That's the compounding effect we're building toward.
 
@@ -40,7 +40,7 @@ That's the compounding effect we're building toward.
 ## Standards
 
 - **Language:** Python (primary)
-- **Models:** Claude (primary), with provider abstraction via `pw-ai-core`
+- **Models:** Gemini (primary), with provider abstraction via `pw-ai-core`. Final model selection is use-case driven and determined by evaluation — not assumed upfront.
 - **Branching:** `main` is always deployable. All work via PRs.
 - **Versioning:** Semantic version (`v1.2.3`) for `pw-ai-core` and `pw-ai-capabilities` releases.
 
