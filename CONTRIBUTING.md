@@ -4,7 +4,7 @@ This repository is part of the AI Lab platform. Our goal is to build **reusable 
 
 ---
 
-## C🧠 Core Principle
+## 🧠 Core Principle
 
 **1. Capability > Project**
     - Build reusable components (RAG, prompts, eval). If something will be used by 2+ projects, it belongs in `pw-ai-capabilities` - not buried inside an ap or client repo. Hence, avoid duplicating logic inside apps.

@@ -8,6 +8,8 @@ We build *reusable AI capabilities** and deliver intelligent systems for clients
 
 ## 🎯 What We Focus On
 
+- Model Abstraction
+- LLM Cost tracking and usage
 - Retrieval (RAG)
 - Prompt orchestration 
 - Evaluation frameworks
