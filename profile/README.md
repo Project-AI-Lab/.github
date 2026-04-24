@@ -1,4 +1,4 @@
-# Project AI Systems
+# Project AI Hub
 
 We build *reusable AI capabilities** and deliver intelligent systems for clients.
 
