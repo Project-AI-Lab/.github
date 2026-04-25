@@ -50,7 +50,7 @@ That's the compounding effect we're building toward.
 |---|---|---|
 | `pw-ai-core` | `pw-ai-core` | Foundation layer |
 | `pw-ai-capabilities` | `pw-ai-capabilities` | Reusable capability layer |
-| `pw-ai-apps` | `pwai-apps` | Internal products |
+| `pw-ai-apps` | `pw-ai-apps` | Internal products |
 | `client-` | `gpj-acme-chatbot` | Clent-specific projects |
 | `pw-internal-` | `pw-internal-playbooks` | Ops, templates, research |
 
