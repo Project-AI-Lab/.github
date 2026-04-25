@@ -52,7 +52,7 @@ That's the compounding effect we're building toward.
 | `pw-ai-capabilities` | `pw-ai-capabilities` | Reusable capability layer |
 | `pw-ai-apps` | `pwai-apps` | Internal products |
 | `client-` | `gpj-acme-chatbot` | Clent-specific projects |
-| `internal-` | `internal-playbooks` | Ops, templates, research |
+| `pw-internal-` | `pw-internal-playbooks` | Ops, templates, research |
 
 ---
 
